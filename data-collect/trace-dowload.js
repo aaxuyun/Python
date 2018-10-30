@@ -10,6 +10,7 @@
 // @match        http://www.doyouhike.net/dest/*
 // @grant        none
 // @run-at       document-end
+
 // ==/UserScript==
 
 (function(){
