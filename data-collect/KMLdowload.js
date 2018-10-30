@@ -13,10 +13,7 @@
 // @run-at       document-end
 // ==/UserScript==
 
-/* 
- * 欢迎交流改进
- * @author:jjm2473@qq.com
- **/
+
 function XMLNode(tag){
     this.tagName=tag;
     this.childNodes=[];
