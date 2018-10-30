@@ -200,6 +200,7 @@ function(){
         a.download=filename||'Untitled';
         a.click();
 	};
+	
     var downloadTrip = function(tripid){
         getTracks(tripid, function(track){
             getFootPrint(tripid, function(footprints){
